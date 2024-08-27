@@ -1,11 +1,15 @@
 {
-  "name": "final-check-scss",
+  "name": "@chakri-git-hub/final-check-scss",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "build-css": "sass scss/index.scss dist/css/index.css"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "URL": "https://github.com/chakri-git-hub/final-check-scss"
+  },
   "author": "",
   "license": "ISC",
   "description": "",
